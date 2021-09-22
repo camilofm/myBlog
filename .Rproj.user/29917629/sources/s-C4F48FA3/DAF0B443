@@ -3,7 +3,7 @@
     "path": "~/Documents/RStudio-Markdown/Distll_blog/myBlog/_posts/welcome/welcome.Rmd",
     "project_path": "_posts/welcome/welcome.Rmd",
     "type": "r_markdown",
-    "hash": "3846821700",
+    "hash": "1273576595",
     "contents": "",
     "dirty": false,
     "created": 1632283183290.0,
@@ -11,14 +11,16 @@
     "relative_order": 1,
     "properties": {
         "source_window_id": "",
-        "Source": "Source"
+        "Source": "Source",
+        "cursorPosition": "24,49",
+        "scrollLine": "8"
     },
     "folds": "",
-    "lastKnownWriteTime": 1632283147,
+    "lastKnownWriteTime": 1632286899,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1632283147,
+    "last_content_update": 1632286899105,
     "read_only": false,
     "read_only_alternatives": []
 }
